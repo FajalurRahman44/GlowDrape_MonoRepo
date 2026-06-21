@@ -1,0 +1,14 @@
+{
+  "name": "glowdrapemonorepoarch",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@11.8.0",
+  "scripts": {
+    "dev": "turbo run dev --output-logs=full",
+    "build": "turbo run build"
+  },
+  "type": "module",
+  "devDependencies": {
+    "turbo": "^2.9.18"
+  }
+}
